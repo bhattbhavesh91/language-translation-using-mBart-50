@@ -2,8 +2,14 @@
 Streamlit app to Translate text to or between 50 languages with mBART-50 from Huggingface and Facebook 
 
 ## To view the video
-* [Click here](https://youtu.be/fxZtz0LPJLE)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=fxZtz0LPJLE" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/fxZtz0LPJLE?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Multilingual Language Translation using Facebook's mBART-50 using Hugging Face's transformer](http://img.youtube.com/vi/fxZtz0LPJLE/0.jpg)](http://www.youtube.com/watch?v=fxZtz0LPJLE)
 
